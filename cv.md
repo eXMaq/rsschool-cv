@@ -2,7 +2,8 @@
 # Contact information: 
 **Phone number:** +375(25)50-33-466 <br>
 **Email:** eX3Maq@gmail.com <br>
-**Telegram:** @eXMaq
+**Telegram:** @eXMaq <br>
+**Skype:** eXMa_q
 ## About me: 
 *A little bit later ;]*
 ## Skills:
