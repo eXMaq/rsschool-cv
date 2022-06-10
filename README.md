@@ -1,2 +1,3 @@
 £rsschool
-https://eXMa.github.io/rsschool-cv/cv
+
+https://eXMaq.github.io/rsschool-cv/cv
