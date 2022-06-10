@@ -1,8 +1,11 @@
 # Maksim Eskov
 # Contact information: 
 **Phone number:** +375(25)50-33-466
+
 **Email:** eX3Maq@gmail.com 
+
 **Telegram:** @eXMaq
+
 ## About me: 
 *A little bit later ;]*
 ## Skills:
