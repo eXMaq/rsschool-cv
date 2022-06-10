@@ -1,2 +1,2 @@
 £rsschool
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://eXMa.github.io/rsschool-cv/cv
