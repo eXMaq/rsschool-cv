@@ -4,7 +4,7 @@
     2. **Email:** eX3Maq@gmail.com 
     3. **Telegram:** @eXMaq
 ## About me: 
-    A little bit later ;]
+A little bit later ;]
 ### Skills
 #### Code examples
 ##### Education
