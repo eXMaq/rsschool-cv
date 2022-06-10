@@ -5,7 +5,7 @@
 3. **Telegram:** @eXMaq
 ## About me: 
     *A little bit later ;]*
-### Skills
-#### Code examples
-##### Education
-###### Language
+## Skills
+## Code examples
+## Education
+## Language
