@@ -43,11 +43,11 @@ html {
 }
 
 .main {
-    border: 1px solid red;
+    border: 1px solid green;
 }
 
 .footer {
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 .text-123 {
     background-color: deepskyblue;
